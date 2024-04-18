@@ -1,0 +1,27 @@
+{
+  "name": "@jasvk/quickbot",
+  "version": "0.0.1",
+  "description": "A quick discord.js bot.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tblelrd/discord-quickbot.git"
+  },
+  "author": "Jasvk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tblelrd/discord-quickbot/issues"
+  },
+  "homepage": "https://github.com/tblelrd/discord-quickbot#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
